@@ -30,3 +30,4 @@ El administrador ha gestionado la integración final en la rama `main`.
 Proyecto educativo para la asignatura de **Entornos de Desarrollo**.  
 Uso EXCLUSIVAMENTE educativo.
 
+
